@@ -1,6 +1,6 @@
 # Skill Usage Tracker for Claude Code
 
-Tracks which of your 167 skills actually get used, so you can make an informed cleanup after a month.
+Tracks which of your  skills actually get used, so you can make an informed cleanup after a month.
 
 ## Setup
 
